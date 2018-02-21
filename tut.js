@@ -7,7 +7,7 @@ const APP_ID = "";
 const languageStrings = {
     'en': {
         'translation': {
-            SKILL_NAME: '',
+            SKILL_NAME: "",
             WELCOME_MESSAGE: "",
             WELCOME_REPROMT: "",
             HELP_MESSAGE: "",
